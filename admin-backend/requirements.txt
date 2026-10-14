@@ -1,0 +1,49 @@
+# --- Web framework -----------------------------------------------------------
+fastapi==0.141.1
+starlette==1.7.0
+uvicorn==0.54.0
+python-multipart==0.0.32
+
+# --- Validation & settings ---------------------------------------------------
+pydantic==2.13.5
+pydantic-settings==2.15.0
+pydantic_core==2.46.5
+annotated-doc==0.0.5
+annotated-types==0.8.0
+typing-inspection==0.4.4
+typing_extensions==4.16.0
+email-validator==2.3.0          # required by pydantic EmailStr (was unpinned)
+python-dotenv==1.2.3
+
+# --- Database ----------------------------------------------------------------
+SQLAlchemy>=2.0.0,<2.1.0
+greenlet==3.5.6                 # required by SQLAlchemy's async bridge
+aiosqlite==0.22.1               # local development database
+asyncpg==0.31.0                 # PostgreSQL driver for production
+
+# --- Cache / realtime --------------------------------------------------------
+redis==8.1.0
+
+# --- Security ----------------------------------------------------------------
+bcrypt==5.0.0
+PyJWT==2.15.0
+# NOTE: passlib was removed — it is not imported anywhere and is known to break
+# against bcrypt >= 4.1 (this project uses the bcrypt library directly).
+
+# --- HTTP client -------------------------------------------------------------
+httpx==0.28.1
+httpcore==1.0.9
+h11==0.16.0
+certifi==2026.7.22
+idna==3.20
+anyio==4.15.1
+click==8.5.0
+colorama==0.4.6
+
+# --- Tests -------------------------------------------------------------------
+pytest==9.1.1
+pytest-asyncio==1.4.0
+iniconfig==2.3.0
+pluggy==1.6.0
+Pygments==2.21.0
+packaging==26.3

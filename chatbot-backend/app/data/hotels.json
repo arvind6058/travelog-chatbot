@@ -1,0 +1,1882 @@
+{
+  "agra": [
+    {
+      "hotel_name": "Rambagh Palace, Agra",
+      "rating": 4.9,
+      "price_per_night": 27400,
+      "room_type": "Royal Suite",
+      "city": "Agra",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Trident, Agra",
+      "rating": 4.6,
+      "price_per_night": 8500,
+      "room_type": "Premier Room",
+      "city": "Agra",
+      "hotel_url": "https://tridenthotels.com"
+    },
+    {
+      "hotel_name": "WelcomHotel Agra",
+      "rating": 4.4,
+      "price_per_night": 6800,
+      "room_type": "Deluxe Room",
+      "city": "Agra",
+      "hotel_url": "https://itchotels.com"
+    },
+    {
+      "hotel_name": "Alsisar Haveli Agra",
+      "rating": 4.3,
+      "price_per_night": 5000,
+      "room_type": "Heritage Suite",
+      "city": "Agra",
+      "hotel_url": "https://alsisarhaveli.com"
+    },
+    {
+      "hotel_name": "Zostel Agra",
+      "rating": 4.3,
+      "price_per_night": 1300,
+      "room_type": "Private Deluxe Room",
+      "city": "Agra",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "Hotel Pearl Palace Agra",
+      "rating": 4.2,
+      "price_per_night": 2400,
+      "room_type": "Deluxe Double Room",
+      "city": "Agra",
+      "hotel_url": "https://hotelpearlpalace.com"
+    }
+  ],
+  "ahmedabad": [
+    {
+      "hotel_name": "The Leela Palace Ahmedabad",
+      "rating": 4.9,
+      "price_per_night": 14700,
+      "room_type": "Royal Premier Room",
+      "city": "Ahmedabad",
+      "hotel_url": "https://theleela.com"
+    },
+    {
+      "hotel_name": "Taj Ahmedabad",
+      "rating": 4.8,
+      "price_per_night": 13700,
+      "room_type": "Deluxe City View Room",
+      "city": "Ahmedabad",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "ITC Ahmedabad, a Luxury Collection Hotel",
+      "rating": 4.6,
+      "price_per_night": 9800,
+      "room_type": "Executive Club Suite",
+      "city": "Ahmedabad",
+      "hotel_url": "https://itchotels.com"
+    },
+    {
+      "hotel_name": "Radisson Blu Ahmedabad City Centre",
+      "rating": 4.3,
+      "price_per_night": 6000,
+      "room_type": "Superior King Room",
+      "city": "Ahmedabad",
+      "hotel_url": "https://radissonhotels.com"
+    },
+    {
+      "hotel_name": "Novotel Ahmedabad Gujarat",
+      "rating": 4.3,
+      "price_per_night": 6000,
+      "room_type": "Executive King Room",
+      "city": "Ahmedabad",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Ibis Ahmedabad City Centre",
+      "rating": 4.1,
+      "price_per_night": 3900,
+      "room_type": "Standard Queen Room",
+      "city": "Ahmedabad",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Zostel Ahmedabad",
+      "rating": 4.1,
+      "price_per_night": 1200,
+      "room_type": "Private Deluxe Room",
+      "city": "Ahmedabad",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "Treebo Trend Ahmedabad Stay",
+      "rating": 3.9,
+      "price_per_night": 2100,
+      "room_type": "Deluxe Double Room",
+      "city": "Ahmedabad",
+      "hotel_url": "https://treebo.com"
+    }
+  ],
+  "amritsar": [
+    {
+      "hotel_name": "Rambagh Palace, Amritsar",
+      "rating": 4.8,
+      "price_per_night": 29600,
+      "room_type": "Royal Suite",
+      "city": "Amritsar",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Trident, Amritsar",
+      "rating": 4.5,
+      "price_per_night": 8600,
+      "room_type": "Premier Room",
+      "city": "Amritsar",
+      "hotel_url": "https://tridenthotels.com"
+    },
+    {
+      "hotel_name": "WelcomHotel Amritsar",
+      "rating": 4.5,
+      "price_per_night": 6800,
+      "room_type": "Deluxe Room",
+      "city": "Amritsar",
+      "hotel_url": "https://itchotels.com"
+    },
+    {
+      "hotel_name": "Alsisar Haveli Amritsar",
+      "rating": 4.4,
+      "price_per_night": 5100,
+      "room_type": "Heritage Suite",
+      "city": "Amritsar",
+      "hotel_url": "https://alsisarhaveli.com"
+    },
+    {
+      "hotel_name": "Hotel Pearl Palace Amritsar",
+      "rating": 4.4,
+      "price_per_night": 2400,
+      "room_type": "Deluxe Double Room",
+      "city": "Amritsar",
+      "hotel_url": "https://hotelpearlpalace.com"
+    },
+    {
+      "hotel_name": "Zostel Amritsar",
+      "rating": 4.1,
+      "price_per_night": 1300,
+      "room_type": "Private Deluxe Room",
+      "city": "Amritsar",
+      "hotel_url": "https://zostel.com"
+    }
+  ],
+  "bangalore": [
+    {
+      "hotel_name": "The Leela Palace Bengaluru",
+      "rating": 4.9,
+      "price_per_night": 14500,
+      "room_type": "Royal Premier Room",
+      "city": "Bangalore",
+      "hotel_url": "https://theleela.com"
+    },
+    {
+      "hotel_name": "ITC Gardenia, a Luxury Collection Hotel",
+      "rating": 4.7,
+      "price_per_night": 9500,
+      "room_type": "Executive Club Suite",
+      "city": "Bangalore",
+      "hotel_url": "https://marriott.com"
+    },
+    {
+      "hotel_name": "Ibis Bengaluru City Centre",
+      "rating": 4.1,
+      "price_per_night": 3800,
+      "room_type": "Standard Queen Room",
+      "city": "Bangalore",
+      "hotel_url": "https://accor.com"
+    }
+  ],
+  "benares": [
+    {
+      "hotel_name": "Rambagh Palace, Varanasi",
+      "rating": 4.8,
+      "price_per_night": 26700,
+      "room_type": "Royal Suite",
+      "city": "Varanasi",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Trident, Varanasi",
+      "rating": 4.6,
+      "price_per_night": 8900,
+      "room_type": "Premier Room",
+      "city": "Varanasi",
+      "hotel_url": "https://tridenthotels.com"
+    },
+    {
+      "hotel_name": "Alsisar Haveli Varanasi",
+      "rating": 4.5,
+      "price_per_night": 5300,
+      "room_type": "Heritage Suite",
+      "city": "Varanasi",
+      "hotel_url": "https://alsisarhaveli.com"
+    },
+    {
+      "hotel_name": "WelcomHotel Varanasi",
+      "rating": 4.4,
+      "price_per_night": 6300,
+      "room_type": "Deluxe Room",
+      "city": "Varanasi",
+      "hotel_url": "https://itchotels.com"
+    },
+    {
+      "hotel_name": "Hotel Pearl Palace Varanasi",
+      "rating": 4.4,
+      "price_per_night": 2400,
+      "room_type": "Deluxe Double Room",
+      "city": "Varanasi",
+      "hotel_url": "https://hotelpearlpalace.com"
+    },
+    {
+      "hotel_name": "Zostel Varanasi",
+      "rating": 4.1,
+      "price_per_night": 1300,
+      "room_type": "Private Deluxe Room",
+      "city": "Varanasi",
+      "hotel_url": "https://zostel.com"
+    }
+  ],
+  "bengaluru": [
+    {
+      "hotel_name": "The Leela Palace Bengaluru",
+      "rating": 4.9,
+      "price_per_night": 14500,
+      "room_type": "Royal Premier Room",
+      "city": "Bangalore",
+      "hotel_url": "https://theleela.com"
+    },
+    {
+      "hotel_name": "ITC Gardenia, a Luxury Collection Hotel",
+      "rating": 4.7,
+      "price_per_night": 9500,
+      "room_type": "Executive Club Suite",
+      "city": "Bangalore",
+      "hotel_url": "https://marriott.com"
+    },
+    {
+      "hotel_name": "Ibis Bengaluru City Centre",
+      "rating": 4.1,
+      "price_per_night": 3800,
+      "room_type": "Standard Queen Room",
+      "city": "Bangalore",
+      "hotel_url": "https://accor.com"
+    }
+  ],
+  "chennai": [
+    {
+      "hotel_name": "Taj Chennai",
+      "rating": 4.9,
+      "price_per_night": 12600,
+      "room_type": "Deluxe City View Room",
+      "city": "Chennai",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "The Leela Palace Chennai",
+      "rating": 4.8,
+      "price_per_night": 15100,
+      "room_type": "Royal Premier Room",
+      "city": "Chennai",
+      "hotel_url": "https://theleela.com"
+    },
+    {
+      "hotel_name": "ITC Chennai, a Luxury Collection Hotel",
+      "rating": 4.8,
+      "price_per_night": 9900,
+      "room_type": "Executive Club Suite",
+      "city": "Chennai",
+      "hotel_url": "https://itchotels.com"
+    },
+    {
+      "hotel_name": "Novotel Chennai Tamil Nadu",
+      "rating": 4.4,
+      "price_per_night": 5600,
+      "room_type": "Executive King Room",
+      "city": "Chennai",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Radisson Blu Chennai City Centre",
+      "rating": 4.2,
+      "price_per_night": 5900,
+      "room_type": "Superior King Room",
+      "city": "Chennai",
+      "hotel_url": "https://radissonhotels.com"
+    },
+    {
+      "hotel_name": "Zostel Chennai",
+      "rating": 4.1,
+      "price_per_night": 1200,
+      "room_type": "Private Deluxe Room",
+      "city": "Chennai",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "Ibis Chennai City Centre",
+      "rating": 4.0,
+      "price_per_night": 4000,
+      "room_type": "Standard Queen Room",
+      "city": "Chennai",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Treebo Trend Chennai Stay",
+      "rating": 3.8,
+      "price_per_night": 2000,
+      "room_type": "Deluxe Double Room",
+      "city": "Chennai",
+      "hotel_url": "https://treebo.com"
+    }
+  ],
+  "chikmagalur": [
+    {
+      "hotel_name": "Taj Exotica Resort & Spa, Chikmagalur",
+      "rating": 4.8,
+      "price_per_night": 12400,
+      "room_type": "Luxury Sea View Suite",
+      "city": "Chikmagalur",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "WelcomHeritage Chikmagalur Resort",
+      "rating": 4.4,
+      "price_per_night": 7400,
+      "room_type": "Heritage Garden Room",
+      "city": "Chikmagalur",
+      "hotel_url": "https://welcomheritagehotels.in"
+    },
+    {
+      "hotel_name": "Novotel Chikmagalur Resort & Spa",
+      "rating": 4.3,
+      "price_per_night": 5600,
+      "room_type": "Executive King Room",
+      "city": "Chikmagalur",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Sterling Chikmagalur",
+      "rating": 4.3,
+      "price_per_night": 4400,
+      "room_type": "Premier Valley View Room",
+      "city": "Chikmagalur",
+      "hotel_url": "https://sterlingholidays.com"
+    },
+    {
+      "hotel_name": "Zostel Chikmagalur",
+      "rating": 4.2,
+      "price_per_night": 1500,
+      "room_type": "Private Deluxe Room",
+      "city": "Chikmagalur",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "The Fern Residency Chikmagalur",
+      "rating": 4.0,
+      "price_per_night": 3000,
+      "room_type": "Deluxe Twin Room",
+      "city": "Chikmagalur",
+      "hotel_url": "https://fernhotels.com"
+    },
+    {
+      "hotel_name": "OYO Townhouse Chikmagalur",
+      "rating": 3.8,
+      "price_per_night": 1400,
+      "room_type": "Standard Double Room",
+      "city": "Chikmagalur",
+      "hotel_url": "https://oyorooms.com"
+    }
+  ],
+  "cochin": [
+    {
+      "hotel_name": "Marasa Sarovar Premiere Kochi",
+      "rating": 4.5,
+      "price_per_night": 7400,
+      "room_type": "Executive Suite",
+      "city": "Kochi",
+      "hotel_url": "https://sarovarhotels.com"
+    },
+    {
+      "hotel_name": "The Gateway Hotel Kochi",
+      "rating": 4.2,
+      "price_per_night": 5400,
+      "room_type": "Superior Room",
+      "city": "Kochi",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Fortune Select Kochi",
+      "rating": 4.1,
+      "price_per_night": 4200,
+      "room_type": "Club Room",
+      "city": "Kochi",
+      "hotel_url": "https://fortunehotels.in"
+    },
+    {
+      "hotel_name": "Hotel Annapoorna Kochi",
+      "rating": 4.1,
+      "price_per_night": 2200,
+      "room_type": "Deluxe AC Room",
+      "city": "Kochi",
+      "hotel_url": "https://annapoornahotels.com"
+    },
+    {
+      "hotel_name": "Zostel Kochi",
+      "rating": 4.0,
+      "price_per_night": 1100,
+      "room_type": "Private Deluxe Room",
+      "city": "Kochi",
+      "hotel_url": "https://zostel.com"
+    }
+  ],
+  "coimbatore": [
+    {
+      "hotel_name": "Marasa Sarovar Premiere Coimbatore",
+      "rating": 4.5,
+      "price_per_night": 7600,
+      "room_type": "Executive Suite",
+      "city": "Coimbatore",
+      "hotel_url": "https://sarovarhotels.com"
+    },
+    {
+      "hotel_name": "Fortune Select Coimbatore",
+      "rating": 4.2,
+      "price_per_night": 4200,
+      "room_type": "Club Room",
+      "city": "Coimbatore",
+      "hotel_url": "https://fortunehotels.in"
+    },
+    {
+      "hotel_name": "The Gateway Hotel Coimbatore",
+      "rating": 4.2,
+      "price_per_night": 5300,
+      "room_type": "Superior Room",
+      "city": "Coimbatore",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Zostel Coimbatore",
+      "rating": 4.2,
+      "price_per_night": 1100,
+      "room_type": "Private Deluxe Room",
+      "city": "Coimbatore",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "Hotel Annapoorna Coimbatore",
+      "rating": 4.0,
+      "price_per_night": 2200,
+      "room_type": "Deluxe AC Room",
+      "city": "Coimbatore",
+      "hotel_url": "https://annapoornahotels.com"
+    }
+  ],
+  "coorg": [
+    {
+      "hotel_name": "Taj Exotica Resort & Spa, Coorg",
+      "rating": 4.7,
+      "price_per_night": 12700,
+      "room_type": "Luxury Sea View Suite",
+      "city": "Coorg",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Novotel Coorg Resort & Spa",
+      "rating": 4.5,
+      "price_per_night": 6100,
+      "room_type": "Executive King Room",
+      "city": "Coorg",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "WelcomHeritage Coorg Resort",
+      "rating": 4.4,
+      "price_per_night": 7400,
+      "room_type": "Heritage Garden Room",
+      "city": "Coorg",
+      "hotel_url": "https://welcomheritagehotels.in"
+    },
+    {
+      "hotel_name": "Sterling Coorg",
+      "rating": 4.4,
+      "price_per_night": 4700,
+      "room_type": "Premier Valley View Room",
+      "city": "Coorg",
+      "hotel_url": "https://sterlingholidays.com"
+    },
+    {
+      "hotel_name": "Zostel Coorg",
+      "rating": 4.3,
+      "price_per_night": 1500,
+      "room_type": "Private Deluxe Room",
+      "city": "Coorg",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "The Fern Residency Coorg",
+      "rating": 4.2,
+      "price_per_night": 3400,
+      "room_type": "Deluxe Twin Room",
+      "city": "Coorg",
+      "hotel_url": "https://fernhotels.com"
+    },
+    {
+      "hotel_name": "OYO Townhouse Coorg",
+      "rating": 3.7,
+      "price_per_night": 1300,
+      "room_type": "Standard Double Room",
+      "city": "Coorg",
+      "hotel_url": "https://oyorooms.com"
+    }
+  ],
+  "darjeeling": [
+    {
+      "hotel_name": "Taj Exotica Resort & Spa, Darjeeling",
+      "rating": 4.8,
+      "price_per_night": 12600,
+      "room_type": "Luxury Sea View Suite",
+      "city": "Darjeeling",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "WelcomHeritage Darjeeling Resort",
+      "rating": 4.4,
+      "price_per_night": 7700,
+      "room_type": "Heritage Garden Room",
+      "city": "Darjeeling",
+      "hotel_url": "https://welcomheritagehotels.in"
+    },
+    {
+      "hotel_name": "Novotel Darjeeling Resort & Spa",
+      "rating": 4.4,
+      "price_per_night": 5500,
+      "room_type": "Executive King Room",
+      "city": "Darjeeling",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Sterling Darjeeling",
+      "rating": 4.2,
+      "price_per_night": 4800,
+      "room_type": "Premier Valley View Room",
+      "city": "Darjeeling",
+      "hotel_url": "https://sterlingholidays.com"
+    },
+    {
+      "hotel_name": "Zostel Darjeeling",
+      "rating": 4.2,
+      "price_per_night": 1400,
+      "room_type": "Private Deluxe Room",
+      "city": "Darjeeling",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "The Fern Residency Darjeeling",
+      "rating": 4.0,
+      "price_per_night": 3200,
+      "room_type": "Deluxe Twin Room",
+      "city": "Darjeeling",
+      "hotel_url": "https://fernhotels.com"
+    },
+    {
+      "hotel_name": "OYO Townhouse Darjeeling",
+      "rating": 3.7,
+      "price_per_night": 1400,
+      "room_type": "Standard Double Room",
+      "city": "Darjeeling",
+      "hotel_url": "https://oyorooms.com"
+    }
+  ],
+  "delhi": [
+    {
+      "hotel_name": "The Taj Mahal Hotel, New Delhi",
+      "rating": 4.8,
+      "price_per_night": 13000,
+      "room_type": "Deluxe City View Room",
+      "city": "Delhi",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Radisson Blu Marina Connaught Place",
+      "rating": 4.3,
+      "price_per_night": 6200,
+      "room_type": "Superior King Room",
+      "city": "Delhi",
+      "hotel_url": "https://radissonhotels.com"
+    }
+  ],
+  "ernakulam": [
+    {
+      "hotel_name": "Marasa Sarovar Premiere Kochi",
+      "rating": 4.5,
+      "price_per_night": 7400,
+      "room_type": "Executive Suite",
+      "city": "Kochi",
+      "hotel_url": "https://sarovarhotels.com"
+    },
+    {
+      "hotel_name": "The Gateway Hotel Kochi",
+      "rating": 4.2,
+      "price_per_night": 5400,
+      "room_type": "Superior Room",
+      "city": "Kochi",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Fortune Select Kochi",
+      "rating": 4.1,
+      "price_per_night": 4200,
+      "room_type": "Club Room",
+      "city": "Kochi",
+      "hotel_url": "https://fortunehotels.in"
+    },
+    {
+      "hotel_name": "Hotel Annapoorna Kochi",
+      "rating": 4.1,
+      "price_per_night": 2200,
+      "room_type": "Deluxe AC Room",
+      "city": "Kochi",
+      "hotel_url": "https://annapoornahotels.com"
+    },
+    {
+      "hotel_name": "Zostel Kochi",
+      "rating": 4.0,
+      "price_per_night": 1100,
+      "room_type": "Private Deluxe Room",
+      "city": "Kochi",
+      "hotel_url": "https://zostel.com"
+    }
+  ],
+  "goa": [
+    {
+      "hotel_name": "Taj Exotica Resort & Spa, Goa",
+      "rating": 4.8,
+      "price_per_night": 12500,
+      "room_type": "Luxury Sea View Suite",
+      "city": "Goa",
+      "hotel_url": "https://www.tajhotels.com"
+    },
+    {
+      "hotel_name": "Novotel Goa Resort & Spa",
+      "rating": 4.4,
+      "price_per_night": 5800,
+      "room_type": "Executive King Room",
+      "city": "Goa",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Zostel Goa (Anjuna)",
+      "rating": 4.2,
+      "price_per_night": 1800,
+      "room_type": "Private Deluxe Room",
+      "city": "Goa",
+      "hotel_url": "https://zostel.com"
+    }
+  ],
+  "gokarna": [
+    {
+      "hotel_name": "Taj Exotica Resort & Spa, Gokarna",
+      "rating": 4.9,
+      "price_per_night": 13100,
+      "room_type": "Luxury Sea View Suite",
+      "city": "Gokarna",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "WelcomHeritage Gokarna Resort",
+      "rating": 4.5,
+      "price_per_night": 7300,
+      "room_type": "Heritage Garden Room",
+      "city": "Gokarna",
+      "hotel_url": "https://welcomheritagehotels.in"
+    },
+    {
+      "hotel_name": "Novotel Gokarna Resort & Spa",
+      "rating": 4.4,
+      "price_per_night": 5900,
+      "room_type": "Executive King Room",
+      "city": "Gokarna",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Sterling Gokarna",
+      "rating": 4.4,
+      "price_per_night": 4500,
+      "room_type": "Premier Valley View Room",
+      "city": "Gokarna",
+      "hotel_url": "https://sterlingholidays.com"
+    },
+    {
+      "hotel_name": "Zostel Gokarna",
+      "rating": 4.3,
+      "price_per_night": 1600,
+      "room_type": "Private Deluxe Room",
+      "city": "Gokarna",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "The Fern Residency Gokarna",
+      "rating": 4.0,
+      "price_per_night": 3200,
+      "room_type": "Deluxe Twin Room",
+      "city": "Gokarna",
+      "hotel_url": "https://fernhotels.com"
+    },
+    {
+      "hotel_name": "OYO Townhouse Gokarna",
+      "rating": 3.8,
+      "price_per_night": 1500,
+      "room_type": "Standard Double Room",
+      "city": "Gokarna",
+      "hotel_url": "https://oyorooms.com"
+    }
+  ],
+  "hampi": [
+    {
+      "hotel_name": "Taj Exotica Resort & Spa, Hampi",
+      "rating": 4.8,
+      "price_per_night": 13000,
+      "room_type": "Luxury Sea View Suite",
+      "city": "Hampi",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "WelcomHeritage Hampi Resort",
+      "rating": 4.5,
+      "price_per_night": 7800,
+      "room_type": "Heritage Garden Room",
+      "city": "Hampi",
+      "hotel_url": "https://welcomheritagehotels.in"
+    },
+    {
+      "hotel_name": "Sterling Hampi",
+      "rating": 4.4,
+      "price_per_night": 4600,
+      "room_type": "Premier Valley View Room",
+      "city": "Hampi",
+      "hotel_url": "https://sterlingholidays.com"
+    },
+    {
+      "hotel_name": "Novotel Hampi Resort & Spa",
+      "rating": 4.3,
+      "price_per_night": 6100,
+      "room_type": "Executive King Room",
+      "city": "Hampi",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Zostel Hampi",
+      "rating": 4.2,
+      "price_per_night": 1500,
+      "room_type": "Private Deluxe Room",
+      "city": "Hampi",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "The Fern Residency Hampi",
+      "rating": 4.0,
+      "price_per_night": 3000,
+      "room_type": "Deluxe Twin Room",
+      "city": "Hampi",
+      "hotel_url": "https://fernhotels.com"
+    },
+    {
+      "hotel_name": "OYO Townhouse Hampi",
+      "rating": 3.7,
+      "price_per_night": 1400,
+      "room_type": "Standard Double Room",
+      "city": "Hampi",
+      "hotel_url": "https://oyorooms.com"
+    }
+  ],
+  "hyderabad": [
+    {
+      "hotel_name": "Taj Hyderabad",
+      "rating": 4.8,
+      "price_per_night": 13000,
+      "room_type": "Deluxe City View Room",
+      "city": "Hyderabad",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "The Leela Palace Hyderabad",
+      "rating": 4.7,
+      "price_per_night": 14200,
+      "room_type": "Royal Premier Room",
+      "city": "Hyderabad",
+      "hotel_url": "https://theleela.com"
+    },
+    {
+      "hotel_name": "ITC Hyderabad, a Luxury Collection Hotel",
+      "rating": 4.7,
+      "price_per_night": 9800,
+      "room_type": "Executive Club Suite",
+      "city": "Hyderabad",
+      "hotel_url": "https://itchotels.com"
+    },
+    {
+      "hotel_name": "Novotel Hyderabad Telangana",
+      "rating": 4.4,
+      "price_per_night": 6100,
+      "room_type": "Executive King Room",
+      "city": "Hyderabad",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Radisson Blu Hyderabad City Centre",
+      "rating": 4.2,
+      "price_per_night": 5900,
+      "room_type": "Superior King Room",
+      "city": "Hyderabad",
+      "hotel_url": "https://radissonhotels.com"
+    },
+    {
+      "hotel_name": "Zostel Hyderabad",
+      "rating": 4.2,
+      "price_per_night": 1200,
+      "room_type": "Private Deluxe Room",
+      "city": "Hyderabad",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "Ibis Hyderabad City Centre",
+      "rating": 4.1,
+      "price_per_night": 3600,
+      "room_type": "Standard Queen Room",
+      "city": "Hyderabad",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Treebo Trend Hyderabad Stay",
+      "rating": 3.9,
+      "price_per_night": 2000,
+      "room_type": "Deluxe Double Room",
+      "city": "Hyderabad",
+      "hotel_url": "https://treebo.com"
+    }
+  ],
+  "jaipur": [
+    {
+      "hotel_name": "Rambagh Palace, Jaipur",
+      "rating": 4.8,
+      "price_per_night": 29000,
+      "room_type": "Royal Suite",
+      "city": "Jaipur",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Trident, Jaipur",
+      "rating": 4.5,
+      "price_per_night": 8500,
+      "room_type": "Premier Room",
+      "city": "Jaipur",
+      "hotel_url": "https://tridenthotels.com"
+    },
+    {
+      "hotel_name": "WelcomHotel Jaipur",
+      "rating": 4.5,
+      "price_per_night": 6700,
+      "room_type": "Deluxe Room",
+      "city": "Jaipur",
+      "hotel_url": "https://itchotels.com"
+    },
+    {
+      "hotel_name": "Alsisar Haveli Jaipur",
+      "rating": 4.3,
+      "price_per_night": 4900,
+      "room_type": "Heritage Suite",
+      "city": "Jaipur",
+      "hotel_url": "https://alsisarhaveli.com"
+    },
+    {
+      "hotel_name": "Hotel Pearl Palace Jaipur",
+      "rating": 4.2,
+      "price_per_night": 2300,
+      "room_type": "Deluxe Double Room",
+      "city": "Jaipur",
+      "hotel_url": "https://hotelpearlpalace.com"
+    },
+    {
+      "hotel_name": "Zostel Jaipur",
+      "rating": 4.1,
+      "price_per_night": 1100,
+      "room_type": "Private Deluxe Room",
+      "city": "Jaipur",
+      "hotel_url": "https://zostel.com"
+    }
+  ],
+  "kashi": [
+    {
+      "hotel_name": "Rambagh Palace, Varanasi",
+      "rating": 4.8,
+      "price_per_night": 26700,
+      "room_type": "Royal Suite",
+      "city": "Varanasi",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Trident, Varanasi",
+      "rating": 4.6,
+      "price_per_night": 8900,
+      "room_type": "Premier Room",
+      "city": "Varanasi",
+      "hotel_url": "https://tridenthotels.com"
+    },
+    {
+      "hotel_name": "Alsisar Haveli Varanasi",
+      "rating": 4.5,
+      "price_per_night": 5300,
+      "room_type": "Heritage Suite",
+      "city": "Varanasi",
+      "hotel_url": "https://alsisarhaveli.com"
+    },
+    {
+      "hotel_name": "WelcomHotel Varanasi",
+      "rating": 4.4,
+      "price_per_night": 6300,
+      "room_type": "Deluxe Room",
+      "city": "Varanasi",
+      "hotel_url": "https://itchotels.com"
+    },
+    {
+      "hotel_name": "Hotel Pearl Palace Varanasi",
+      "rating": 4.4,
+      "price_per_night": 2400,
+      "room_type": "Deluxe Double Room",
+      "city": "Varanasi",
+      "hotel_url": "https://hotelpearlpalace.com"
+    },
+    {
+      "hotel_name": "Zostel Varanasi",
+      "rating": 4.1,
+      "price_per_night": 1300,
+      "room_type": "Private Deluxe Room",
+      "city": "Varanasi",
+      "hotel_url": "https://zostel.com"
+    }
+  ],
+  "kochi": [
+    {
+      "hotel_name": "Marasa Sarovar Premiere Kochi",
+      "rating": 4.5,
+      "price_per_night": 7400,
+      "room_type": "Executive Suite",
+      "city": "Kochi",
+      "hotel_url": "https://sarovarhotels.com"
+    },
+    {
+      "hotel_name": "The Gateway Hotel Kochi",
+      "rating": 4.2,
+      "price_per_night": 5400,
+      "room_type": "Superior Room",
+      "city": "Kochi",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Fortune Select Kochi",
+      "rating": 4.1,
+      "price_per_night": 4200,
+      "room_type": "Club Room",
+      "city": "Kochi",
+      "hotel_url": "https://fortunehotels.in"
+    },
+    {
+      "hotel_name": "Hotel Annapoorna Kochi",
+      "rating": 4.1,
+      "price_per_night": 2200,
+      "room_type": "Deluxe AC Room",
+      "city": "Kochi",
+      "hotel_url": "https://annapoornahotels.com"
+    },
+    {
+      "hotel_name": "Zostel Kochi",
+      "rating": 4.0,
+      "price_per_night": 1100,
+      "room_type": "Private Deluxe Room",
+      "city": "Kochi",
+      "hotel_url": "https://zostel.com"
+    }
+  ],
+  "kolkata": [
+    {
+      "hotel_name": "The Leela Palace Kolkata",
+      "rating": 4.8,
+      "price_per_night": 15300,
+      "room_type": "Royal Premier Room",
+      "city": "Kolkata",
+      "hotel_url": "https://theleela.com"
+    },
+    {
+      "hotel_name": "Taj Kolkata",
+      "rating": 4.7,
+      "price_per_night": 13500,
+      "room_type": "Deluxe City View Room",
+      "city": "Kolkata",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "ITC Kolkata, a Luxury Collection Hotel",
+      "rating": 4.6,
+      "price_per_night": 10100,
+      "room_type": "Executive Club Suite",
+      "city": "Kolkata",
+      "hotel_url": "https://itchotels.com"
+    },
+    {
+      "hotel_name": "Novotel Kolkata West Bengal",
+      "rating": 4.4,
+      "price_per_night": 5700,
+      "room_type": "Executive King Room",
+      "city": "Kolkata",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Radisson Blu Kolkata City Centre",
+      "rating": 4.3,
+      "price_per_night": 6100,
+      "room_type": "Superior King Room",
+      "city": "Kolkata",
+      "hotel_url": "https://radissonhotels.com"
+    },
+    {
+      "hotel_name": "Zostel Kolkata",
+      "rating": 4.2,
+      "price_per_night": 1200,
+      "room_type": "Private Deluxe Room",
+      "city": "Kolkata",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "Ibis Kolkata City Centre",
+      "rating": 4.0,
+      "price_per_night": 3700,
+      "room_type": "Standard Queen Room",
+      "city": "Kolkata",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Treebo Trend Kolkata Stay",
+      "rating": 3.8,
+      "price_per_night": 2100,
+      "room_type": "Deluxe Double Room",
+      "city": "Kolkata",
+      "hotel_url": "https://treebo.com"
+    }
+  ],
+  "madurai": [
+    {
+      "hotel_name": "Marasa Sarovar Premiere Madurai",
+      "rating": 4.5,
+      "price_per_night": 7500,
+      "room_type": "Executive Suite",
+      "city": "Madurai",
+      "hotel_url": "https://sarovarhotels.com"
+    },
+    {
+      "hotel_name": "The Gateway Hotel Madurai",
+      "rating": 4.3,
+      "price_per_night": 5400,
+      "room_type": "Superior Room",
+      "city": "Madurai",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Zostel Madurai",
+      "rating": 4.2,
+      "price_per_night": 1100,
+      "room_type": "Private Deluxe Room",
+      "city": "Madurai",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "Fortune Select Madurai",
+      "rating": 4.1,
+      "price_per_night": 4600,
+      "room_type": "Club Room",
+      "city": "Madurai",
+      "hotel_url": "https://fortunehotels.in"
+    },
+    {
+      "hotel_name": "Hotel Annapoorna Madurai",
+      "rating": 4.1,
+      "price_per_night": 2200,
+      "room_type": "Deluxe AC Room",
+      "city": "Madurai",
+      "hotel_url": "https://annapoornahotels.com"
+    }
+  ],
+  "manali": [
+    {
+      "hotel_name": "Taj Exotica Resort & Spa, Manali",
+      "rating": 4.8,
+      "price_per_night": 12400,
+      "room_type": "Luxury Sea View Suite",
+      "city": "Manali",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "WelcomHeritage Manali Resort",
+      "rating": 4.4,
+      "price_per_night": 7200,
+      "room_type": "Heritage Garden Room",
+      "city": "Manali",
+      "hotel_url": "https://welcomheritagehotels.in"
+    },
+    {
+      "hotel_name": "Novotel Manali Resort & Spa",
+      "rating": 4.3,
+      "price_per_night": 5900,
+      "room_type": "Executive King Room",
+      "city": "Manali",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Sterling Manali",
+      "rating": 4.2,
+      "price_per_night": 4500,
+      "room_type": "Premier Valley View Room",
+      "city": "Manali",
+      "hotel_url": "https://sterlingholidays.com"
+    },
+    {
+      "hotel_name": "Zostel Manali",
+      "rating": 4.2,
+      "price_per_night": 1500,
+      "room_type": "Private Deluxe Room",
+      "city": "Manali",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "The Fern Residency Manali",
+      "rating": 4.0,
+      "price_per_night": 3100,
+      "room_type": "Deluxe Twin Room",
+      "city": "Manali",
+      "hotel_url": "https://fernhotels.com"
+    },
+    {
+      "hotel_name": "OYO Townhouse Manali",
+      "rating": 3.8,
+      "price_per_night": 1400,
+      "room_type": "Standard Double Room",
+      "city": "Manali",
+      "hotel_url": "https://oyorooms.com"
+    }
+  ],
+  "mangalore": [
+    {
+      "hotel_name": "Taj Exotica Resort & Spa, Mangalore",
+      "rating": 4.7,
+      "price_per_night": 12400,
+      "room_type": "Luxury Sea View Suite",
+      "city": "Mangalore",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "WelcomHeritage Mangalore Resort",
+      "rating": 4.5,
+      "price_per_night": 7000,
+      "room_type": "Heritage Garden Room",
+      "city": "Mangalore",
+      "hotel_url": "https://welcomheritagehotels.in"
+    },
+    {
+      "hotel_name": "Novotel Mangalore Resort & Spa",
+      "rating": 4.4,
+      "price_per_night": 5500,
+      "room_type": "Executive King Room",
+      "city": "Mangalore",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Sterling Mangalore",
+      "rating": 4.2,
+      "price_per_night": 4700,
+      "room_type": "Premier Valley View Room",
+      "city": "Mangalore",
+      "hotel_url": "https://sterlingholidays.com"
+    },
+    {
+      "hotel_name": "The Fern Residency Mangalore",
+      "rating": 4.1,
+      "price_per_night": 3400,
+      "room_type": "Deluxe Twin Room",
+      "city": "Mangalore",
+      "hotel_url": "https://fernhotels.com"
+    },
+    {
+      "hotel_name": "Zostel Mangalore",
+      "rating": 4.1,
+      "price_per_night": 1600,
+      "room_type": "Private Deluxe Room",
+      "city": "Mangalore",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "OYO Townhouse Mangalore",
+      "rating": 3.8,
+      "price_per_night": 1400,
+      "room_type": "Standard Double Room",
+      "city": "Mangalore",
+      "hotel_url": "https://oyorooms.com"
+    }
+  ],
+  "mumbai": [
+    {
+      "hotel_name": "The Taj Mahal Palace, Mumbai",
+      "rating": 4.9,
+      "price_per_night": 18000,
+      "room_type": "Heritage Sea View Room",
+      "city": "Mumbai",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Trident Hotel, Nariman Point",
+      "rating": 4.6,
+      "price_per_night": 8800,
+      "room_type": "Premier Ocean View",
+      "city": "Mumbai",
+      "hotel_url": "https://tridenthotels.com"
+    }
+  ],
+  "mysore": [
+    {
+      "hotel_name": "Grand Mercure Mysore",
+      "rating": 4.5,
+      "price_per_night": 4500,
+      "room_type": "Deluxe King Room",
+      "city": "Mysore",
+      "hotel_url": "https://accor.com"
+    }
+  ],
+  "mysuru": [
+    {
+      "hotel_name": "Grand Mercure Mysore",
+      "rating": 4.5,
+      "price_per_night": 4500,
+      "room_type": "Deluxe King Room",
+      "city": "Mysore",
+      "hotel_url": "https://accor.com"
+    }
+  ],
+  "new delhi": [
+    {
+      "hotel_name": "The Taj Mahal Hotel, New Delhi",
+      "rating": 4.8,
+      "price_per_night": 13000,
+      "room_type": "Deluxe City View Room",
+      "city": "Delhi",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Radisson Blu Marina Connaught Place",
+      "rating": 4.3,
+      "price_per_night": 6200,
+      "room_type": "Superior King Room",
+      "city": "Delhi",
+      "hotel_url": "https://radissonhotels.com"
+    }
+  ],
+  "ooty": [
+    {
+      "hotel_name": "Taj Exotica Resort & Spa, Ooty",
+      "rating": 4.8,
+      "price_per_night": 12200,
+      "room_type": "Luxury Sea View Suite",
+      "city": "Ooty",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "WelcomHeritage Ooty Resort",
+      "rating": 4.5,
+      "price_per_night": 7200,
+      "room_type": "Heritage Garden Room",
+      "city": "Ooty",
+      "hotel_url": "https://welcomheritagehotels.in"
+    },
+    {
+      "hotel_name": "Novotel Ooty Resort & Spa",
+      "rating": 4.3,
+      "price_per_night": 5700,
+      "room_type": "Executive King Room",
+      "city": "Ooty",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Sterling Ooty",
+      "rating": 4.2,
+      "price_per_night": 4600,
+      "room_type": "Premier Valley View Room",
+      "city": "Ooty",
+      "hotel_url": "https://sterlingholidays.com"
+    },
+    {
+      "hotel_name": "Zostel Ooty",
+      "rating": 4.2,
+      "price_per_night": 1400,
+      "room_type": "Private Deluxe Room",
+      "city": "Ooty",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "The Fern Residency Ooty",
+      "rating": 4.0,
+      "price_per_night": 3200,
+      "room_type": "Deluxe Twin Room",
+      "city": "Ooty",
+      "hotel_url": "https://fernhotels.com"
+    },
+    {
+      "hotel_name": "OYO Townhouse Ooty",
+      "rating": 3.8,
+      "price_per_night": 1500,
+      "room_type": "Standard Double Room",
+      "city": "Ooty",
+      "hotel_url": "https://oyorooms.com"
+    }
+  ],
+  "pondicherry": [
+    {
+      "hotel_name": "Taj Exotica Resort & Spa, Pondicherry",
+      "rating": 4.7,
+      "price_per_night": 13100,
+      "room_type": "Luxury Sea View Suite",
+      "city": "Pondicherry",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "WelcomHeritage Pondicherry Resort",
+      "rating": 4.5,
+      "price_per_night": 7300,
+      "room_type": "Heritage Garden Room",
+      "city": "Pondicherry",
+      "hotel_url": "https://welcomheritagehotels.in"
+    },
+    {
+      "hotel_name": "Sterling Pondicherry",
+      "rating": 4.4,
+      "price_per_night": 4600,
+      "room_type": "Premier Valley View Room",
+      "city": "Pondicherry",
+      "hotel_url": "https://sterlingholidays.com"
+    },
+    {
+      "hotel_name": "Novotel Pondicherry Resort & Spa",
+      "rating": 4.3,
+      "price_per_night": 6000,
+      "room_type": "Executive King Room",
+      "city": "Pondicherry",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "The Fern Residency Pondicherry",
+      "rating": 4.1,
+      "price_per_night": 3300,
+      "room_type": "Deluxe Twin Room",
+      "city": "Pondicherry",
+      "hotel_url": "https://fernhotels.com"
+    },
+    {
+      "hotel_name": "Zostel Pondicherry",
+      "rating": 4.1,
+      "price_per_night": 1500,
+      "room_type": "Private Deluxe Room",
+      "city": "Pondicherry",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "OYO Townhouse Pondicherry",
+      "rating": 3.8,
+      "price_per_night": 1400,
+      "room_type": "Standard Double Room",
+      "city": "Pondicherry",
+      "hotel_url": "https://oyorooms.com"
+    }
+  ],
+  "pondy": [
+    {
+      "hotel_name": "Taj Exotica Resort & Spa, Pondicherry",
+      "rating": 4.7,
+      "price_per_night": 13100,
+      "room_type": "Luxury Sea View Suite",
+      "city": "Pondicherry",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "WelcomHeritage Pondicherry Resort",
+      "rating": 4.5,
+      "price_per_night": 7300,
+      "room_type": "Heritage Garden Room",
+      "city": "Pondicherry",
+      "hotel_url": "https://welcomheritagehotels.in"
+    },
+    {
+      "hotel_name": "Sterling Pondicherry",
+      "rating": 4.4,
+      "price_per_night": 4600,
+      "room_type": "Premier Valley View Room",
+      "city": "Pondicherry",
+      "hotel_url": "https://sterlingholidays.com"
+    },
+    {
+      "hotel_name": "Novotel Pondicherry Resort & Spa",
+      "rating": 4.3,
+      "price_per_night": 6000,
+      "room_type": "Executive King Room",
+      "city": "Pondicherry",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "The Fern Residency Pondicherry",
+      "rating": 4.1,
+      "price_per_night": 3300,
+      "room_type": "Deluxe Twin Room",
+      "city": "Pondicherry",
+      "hotel_url": "https://fernhotels.com"
+    },
+    {
+      "hotel_name": "Zostel Pondicherry",
+      "rating": 4.1,
+      "price_per_night": 1500,
+      "room_type": "Private Deluxe Room",
+      "city": "Pondicherry",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "OYO Townhouse Pondicherry",
+      "rating": 3.8,
+      "price_per_night": 1400,
+      "room_type": "Standard Double Room",
+      "city": "Pondicherry",
+      "hotel_url": "https://oyorooms.com"
+    }
+  ],
+  "pune": [
+    {
+      "hotel_name": "ITC Pune, a Luxury Collection Hotel",
+      "rating": 4.8,
+      "price_per_night": 10400,
+      "room_type": "Executive Club Suite",
+      "city": "Pune",
+      "hotel_url": "https://itchotels.com"
+    },
+    {
+      "hotel_name": "The Leela Palace Pune",
+      "rating": 4.7,
+      "price_per_night": 15200,
+      "room_type": "Royal Premier Room",
+      "city": "Pune",
+      "hotel_url": "https://theleela.com"
+    },
+    {
+      "hotel_name": "Taj Pune",
+      "rating": 4.7,
+      "price_per_night": 12500,
+      "room_type": "Deluxe City View Room",
+      "city": "Pune",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Radisson Blu Pune City Centre",
+      "rating": 4.4,
+      "price_per_night": 6300,
+      "room_type": "Superior King Room",
+      "city": "Pune",
+      "hotel_url": "https://radissonhotels.com"
+    },
+    {
+      "hotel_name": "Novotel Pune Maharashtra",
+      "rating": 4.3,
+      "price_per_night": 5900,
+      "room_type": "Executive King Room",
+      "city": "Pune",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Zostel Pune",
+      "rating": 4.3,
+      "price_per_night": 1300,
+      "room_type": "Private Deluxe Room",
+      "city": "Pune",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "Ibis Pune City Centre",
+      "rating": 4.1,
+      "price_per_night": 3800,
+      "room_type": "Standard Queen Room",
+      "city": "Pune",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Treebo Trend Pune Stay",
+      "rating": 3.8,
+      "price_per_night": 2000,
+      "room_type": "Deluxe Double Room",
+      "city": "Pune",
+      "hotel_url": "https://treebo.com"
+    }
+  ],
+  "rishikesh": [
+    {
+      "hotel_name": "Taj Exotica Resort & Spa, Rishikesh",
+      "rating": 4.7,
+      "price_per_night": 11900,
+      "room_type": "Luxury Sea View Suite",
+      "city": "Rishikesh",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "WelcomHeritage Rishikesh Resort",
+      "rating": 4.4,
+      "price_per_night": 7500,
+      "room_type": "Heritage Garden Room",
+      "city": "Rishikesh",
+      "hotel_url": "https://welcomheritagehotels.in"
+    },
+    {
+      "hotel_name": "Novotel Rishikesh Resort & Spa",
+      "rating": 4.4,
+      "price_per_night": 5900,
+      "room_type": "Executive King Room",
+      "city": "Rishikesh",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Zostel Rishikesh",
+      "rating": 4.3,
+      "price_per_night": 1500,
+      "room_type": "Private Deluxe Room",
+      "city": "Rishikesh",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "Sterling Rishikesh",
+      "rating": 4.2,
+      "price_per_night": 4800,
+      "room_type": "Premier Valley View Room",
+      "city": "Rishikesh",
+      "hotel_url": "https://sterlingholidays.com"
+    },
+    {
+      "hotel_name": "The Fern Residency Rishikesh",
+      "rating": 4.1,
+      "price_per_night": 3400,
+      "room_type": "Deluxe Twin Room",
+      "city": "Rishikesh",
+      "hotel_url": "https://fernhotels.com"
+    },
+    {
+      "hotel_name": "OYO Townhouse Rishikesh",
+      "rating": 3.7,
+      "price_per_night": 1400,
+      "room_type": "Standard Double Room",
+      "city": "Rishikesh",
+      "hotel_url": "https://oyorooms.com"
+    }
+  ],
+  "shimla": [
+    {
+      "hotel_name": "Taj Exotica Resort & Spa, Shimla",
+      "rating": 4.8,
+      "price_per_night": 13000,
+      "room_type": "Luxury Sea View Suite",
+      "city": "Shimla",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "WelcomHeritage Shimla Resort",
+      "rating": 4.5,
+      "price_per_night": 7300,
+      "room_type": "Heritage Garden Room",
+      "city": "Shimla",
+      "hotel_url": "https://welcomheritagehotels.in"
+    },
+    {
+      "hotel_name": "Novotel Shimla Resort & Spa",
+      "rating": 4.5,
+      "price_per_night": 5500,
+      "room_type": "Executive King Room",
+      "city": "Shimla",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Sterling Shimla",
+      "rating": 4.3,
+      "price_per_night": 4900,
+      "room_type": "Premier Valley View Room",
+      "city": "Shimla",
+      "hotel_url": "https://sterlingholidays.com"
+    },
+    {
+      "hotel_name": "Zostel Shimla",
+      "rating": 4.2,
+      "price_per_night": 1500,
+      "room_type": "Private Deluxe Room",
+      "city": "Shimla",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "The Fern Residency Shimla",
+      "rating": 4.0,
+      "price_per_night": 3300,
+      "room_type": "Deluxe Twin Room",
+      "city": "Shimla",
+      "hotel_url": "https://fernhotels.com"
+    },
+    {
+      "hotel_name": "OYO Townhouse Shimla",
+      "rating": 3.8,
+      "price_per_night": 1400,
+      "room_type": "Standard Double Room",
+      "city": "Shimla",
+      "hotel_url": "https://oyorooms.com"
+    }
+  ],
+  "tirupati": [
+    {
+      "hotel_name": "Marasa Sarovar Premiere Tirupati",
+      "rating": 4.5,
+      "price_per_night": 7300,
+      "room_type": "Executive Suite",
+      "city": "Tirupati",
+      "hotel_url": "https://sarovarhotels.com"
+    },
+    {
+      "hotel_name": "The Gateway Hotel Tirupati",
+      "rating": 4.3,
+      "price_per_night": 5400,
+      "room_type": "Superior Room",
+      "city": "Tirupati",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Fortune Select Tirupati",
+      "rating": 4.2,
+      "price_per_night": 4600,
+      "room_type": "Club Room",
+      "city": "Tirupati",
+      "hotel_url": "https://fortunehotels.in"
+    },
+    {
+      "hotel_name": "Zostel Tirupati",
+      "rating": 4.2,
+      "price_per_night": 1100,
+      "room_type": "Private Deluxe Room",
+      "city": "Tirupati",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "Hotel Annapoorna Tirupati",
+      "rating": 4.1,
+      "price_per_night": 2100,
+      "room_type": "Deluxe AC Room",
+      "city": "Tirupati",
+      "hotel_url": "https://annapoornahotels.com"
+    }
+  ],
+  "trivandrum": [
+    {
+      "hotel_name": "Marasa Sarovar Premiere Trivandrum",
+      "rating": 4.5,
+      "price_per_night": 6900,
+      "room_type": "Executive Suite",
+      "city": "Trivandrum",
+      "hotel_url": "https://sarovarhotels.com"
+    },
+    {
+      "hotel_name": "The Gateway Hotel Trivandrum",
+      "rating": 4.3,
+      "price_per_night": 5200,
+      "room_type": "Superior Room",
+      "city": "Trivandrum",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Fortune Select Trivandrum",
+      "rating": 4.2,
+      "price_per_night": 4400,
+      "room_type": "Club Room",
+      "city": "Trivandrum",
+      "hotel_url": "https://fortunehotels.in"
+    },
+    {
+      "hotel_name": "Hotel Annapoorna Trivandrum",
+      "rating": 4.1,
+      "price_per_night": 2300,
+      "room_type": "Deluxe AC Room",
+      "city": "Trivandrum",
+      "hotel_url": "https://annapoornahotels.com"
+    },
+    {
+      "hotel_name": "Zostel Trivandrum",
+      "rating": 4.1,
+      "price_per_night": 1000,
+      "room_type": "Private Deluxe Room",
+      "city": "Trivandrum",
+      "hotel_url": "https://zostel.com"
+    }
+  ],
+  "udaipur": [
+    {
+      "hotel_name": "Rambagh Palace, Udaipur",
+      "rating": 4.8,
+      "price_per_night": 27100,
+      "room_type": "Royal Suite",
+      "city": "Udaipur",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Trident, Udaipur",
+      "rating": 4.5,
+      "price_per_night": 8900,
+      "room_type": "Premier Room",
+      "city": "Udaipur",
+      "hotel_url": "https://tridenthotels.com"
+    },
+    {
+      "hotel_name": "WelcomHotel Udaipur",
+      "rating": 4.5,
+      "price_per_night": 6200,
+      "room_type": "Deluxe Room",
+      "city": "Udaipur",
+      "hotel_url": "https://itchotels.com"
+    },
+    {
+      "hotel_name": "Alsisar Haveli Udaipur",
+      "rating": 4.5,
+      "price_per_night": 5400,
+      "room_type": "Heritage Suite",
+      "city": "Udaipur",
+      "hotel_url": "https://alsisarhaveli.com"
+    },
+    {
+      "hotel_name": "Hotel Pearl Palace Udaipur",
+      "rating": 4.2,
+      "price_per_night": 2500,
+      "room_type": "Deluxe Double Room",
+      "city": "Udaipur",
+      "hotel_url": "https://hotelpearlpalace.com"
+    },
+    {
+      "hotel_name": "Zostel Udaipur",
+      "rating": 4.1,
+      "price_per_night": 1200,
+      "room_type": "Private Deluxe Room",
+      "city": "Udaipur",
+      "hotel_url": "https://zostel.com"
+    }
+  ],
+  "varanasi": [
+    {
+      "hotel_name": "Rambagh Palace, Varanasi",
+      "rating": 4.8,
+      "price_per_night": 26700,
+      "room_type": "Royal Suite",
+      "city": "Varanasi",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "Trident, Varanasi",
+      "rating": 4.6,
+      "price_per_night": 8900,
+      "room_type": "Premier Room",
+      "city": "Varanasi",
+      "hotel_url": "https://tridenthotels.com"
+    },
+    {
+      "hotel_name": "Alsisar Haveli Varanasi",
+      "rating": 4.5,
+      "price_per_night": 5300,
+      "room_type": "Heritage Suite",
+      "city": "Varanasi",
+      "hotel_url": "https://alsisarhaveli.com"
+    },
+    {
+      "hotel_name": "WelcomHotel Varanasi",
+      "rating": 4.4,
+      "price_per_night": 6300,
+      "room_type": "Deluxe Room",
+      "city": "Varanasi",
+      "hotel_url": "https://itchotels.com"
+    },
+    {
+      "hotel_name": "Hotel Pearl Palace Varanasi",
+      "rating": 4.4,
+      "price_per_night": 2400,
+      "room_type": "Deluxe Double Room",
+      "city": "Varanasi",
+      "hotel_url": "https://hotelpearlpalace.com"
+    },
+    {
+      "hotel_name": "Zostel Varanasi",
+      "rating": 4.1,
+      "price_per_night": 1300,
+      "room_type": "Private Deluxe Room",
+      "city": "Varanasi",
+      "hotel_url": "https://zostel.com"
+    }
+  ],
+  "wayanad": [
+    {
+      "hotel_name": "Taj Exotica Resort & Spa, Wayanad",
+      "rating": 4.7,
+      "price_per_night": 12900,
+      "room_type": "Luxury Sea View Suite",
+      "city": "Wayanad",
+      "hotel_url": "https://tajhotels.com"
+    },
+    {
+      "hotel_name": "WelcomHeritage Wayanad Resort",
+      "rating": 4.4,
+      "price_per_night": 7000,
+      "room_type": "Heritage Garden Room",
+      "city": "Wayanad",
+      "hotel_url": "https://welcomheritagehotels.in"
+    },
+    {
+      "hotel_name": "Novotel Wayanad Resort & Spa",
+      "rating": 4.3,
+      "price_per_night": 6000,
+      "room_type": "Executive King Room",
+      "city": "Wayanad",
+      "hotel_url": "https://accor.com"
+    },
+    {
+      "hotel_name": "Sterling Wayanad",
+      "rating": 4.3,
+      "price_per_night": 4400,
+      "room_type": "Premier Valley View Room",
+      "city": "Wayanad",
+      "hotel_url": "https://sterlingholidays.com"
+    },
+    {
+      "hotel_name": "Zostel Wayanad",
+      "rating": 4.2,
+      "price_per_night": 1500,
+      "room_type": "Private Deluxe Room",
+      "city": "Wayanad",
+      "hotel_url": "https://zostel.com"
+    },
+    {
+      "hotel_name": "The Fern Residency Wayanad",
+      "rating": 4.1,
+      "price_per_night": 3400,
+      "room_type": "Deluxe Twin Room",
+      "city": "Wayanad",
+      "hotel_url": "https://fernhotels.com"
+    },
+    {
+      "hotel_name": "OYO Townhouse Wayanad",
+      "rating": 3.8,
+      "price_per_night": 1400,
+      "room_type": "Standard Double Room",
+      "city": "Wayanad",
+      "hotel_url": "https://oyorooms.com"
+    }
+  ]
+}

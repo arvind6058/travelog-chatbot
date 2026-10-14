@@ -1,0 +1,407 @@
+{
+  "agra": {
+    "city": "Agra",
+    "condition": "Clear Sky / Warm",
+    "temperature": 28.0,
+    "temperature_range": "22°C - 34°C",
+    "humidity": "45%",
+    "precipitation_chance": "5%",
+    "clothing_recommendation": "Breathable cotton clothes and sunglasses."
+  },
+  "ahmedabad": {
+    "city": "Ahmedabad",
+    "condition": "Sunny & Dry",
+    "temperature": 29.5,
+    "temperature_range": "23°C - 36°C",
+    "humidity": "35%",
+    "precipitation_chance": "0%",
+    "clothing_recommendation": "Light cotton clothing, hat, and sunscreen."
+  },
+  "amritsar": {
+    "city": "Amritsar",
+    "condition": "Clear Sky / Warm",
+    "temperature": 28.0,
+    "temperature_range": "22°C - 34°C",
+    "humidity": "45%",
+    "precipitation_chance": "5%",
+    "clothing_recommendation": "Breathable cotton clothes and sunglasses."
+  },
+  "bangalore": {
+    "city": "Bangalore",
+    "condition": "Mild & Pleasant",
+    "temperature": 24.0,
+    "temperature_range": "19°C - 29°C",
+    "humidity": "55%",
+    "precipitation_chance": "15%",
+    "clothing_recommendation": "Comfortable light jacket for early morning or late evening."
+  },
+  "benares": {
+    "city": "Varanasi",
+    "condition": "Clear Sky / Warm",
+    "temperature": 28.0,
+    "temperature_range": "22°C - 34°C",
+    "humidity": "45%",
+    "precipitation_chance": "5%",
+    "clothing_recommendation": "Breathable cotton clothes and sunglasses."
+  },
+  "bengaluru": {
+    "city": "Bangalore",
+    "condition": "Mild & Pleasant",
+    "temperature": 24.0,
+    "temperature_range": "19°C - 29°C",
+    "humidity": "55%",
+    "precipitation_chance": "15%",
+    "clothing_recommendation": "Comfortable light jacket for early morning or late evening."
+  },
+  "bombay": {
+    "city": "Mumbai",
+    "condition": "Coastal Warm & Humid",
+    "temperature": 29.0,
+    "temperature_range": "25°C - 33°C",
+    "humidity": "75%",
+    "precipitation_chance": "20%",
+    "clothing_recommendation": "Cotton wear and stay well hydrated."
+  },
+  "calcutta": {
+    "city": "Kolkata",
+    "condition": "Clear Sky / Warm",
+    "temperature": 28.0,
+    "temperature_range": "22°C - 34°C",
+    "humidity": "45%",
+    "precipitation_chance": "5%",
+    "clothing_recommendation": "Breathable cotton clothes and sunglasses."
+  },
+  "chennai": {
+    "city": "Chennai",
+    "condition": "Humid & Partly Cloudy Coastal",
+    "temperature": 28.0,
+    "temperature_range": "24°C - 32°C",
+    "humidity": "78%",
+    "precipitation_chance": "25%",
+    "clothing_recommendation": "Light breathable fabrics and an umbrella."
+  },
+  "chikmagalur": {
+    "city": "Chikmagalur",
+    "condition": "Pleasant & Clear Hill Climate",
+    "temperature": 19.0,
+    "temperature_range": "14°C - 24°C",
+    "humidity": "70%",
+    "precipitation_chance": "30%",
+    "clothing_recommendation": "Light woollens for the evening and comfortable walking shoes."
+  },
+  "cochin": {
+    "city": "Kochi",
+    "condition": "Humid & Partly Cloudy Coastal",
+    "temperature": 28.0,
+    "temperature_range": "24°C - 32°C",
+    "humidity": "78%",
+    "precipitation_chance": "25%",
+    "clothing_recommendation": "Light breathable fabrics and an umbrella."
+  },
+  "coimbatore": {
+    "city": "Coimbatore",
+    "condition": "Mild & Pleasant",
+    "temperature": 24.0,
+    "temperature_range": "19°C - 29°C",
+    "humidity": "55%",
+    "precipitation_chance": "15%",
+    "clothing_recommendation": "Comfortable light jacket for early morning or late evening."
+  },
+  "coorg": {
+    "city": "Coorg",
+    "condition": "Pleasant & Clear Hill Climate",
+    "temperature": 19.0,
+    "temperature_range": "14°C - 24°C",
+    "humidity": "70%",
+    "precipitation_chance": "30%",
+    "clothing_recommendation": "Light woollens for the evening and comfortable walking shoes."
+  },
+  "darjeeling": {
+    "city": "Darjeeling",
+    "condition": "Cool & Crisp Mountain Air",
+    "temperature": 12.0,
+    "temperature_range": "6°C - 18°C",
+    "humidity": "60%",
+    "precipitation_chance": "25%",
+    "clothing_recommendation": "Warm layers, a windproof jacket, and sturdy walking shoes."
+  },
+  "delhi": {
+    "city": "Delhi",
+    "condition": "Clear Sky / Warm",
+    "temperature": 28.0,
+    "temperature_range": "22°C - 34°C",
+    "humidity": "45%",
+    "precipitation_chance": "5%",
+    "clothing_recommendation": "Breathable cotton clothes and sunglasses."
+  },
+  "ernakulam": {
+    "city": "Kochi",
+    "condition": "Humid & Partly Cloudy Coastal",
+    "temperature": 28.0,
+    "temperature_range": "24°C - 32°C",
+    "humidity": "78%",
+    "precipitation_chance": "25%",
+    "clothing_recommendation": "Light breathable fabrics and an umbrella."
+  },
+  "goa": {
+    "city": "Goa",
+    "condition": "Coastal Warm & Humid",
+    "temperature": 29.0,
+    "temperature_range": "25°C - 33°C",
+    "humidity": "75%",
+    "precipitation_chance": "20%",
+    "clothing_recommendation": "Cotton wear and stay well hydrated."
+  },
+  "gokarna": {
+    "city": "Gokarna",
+    "condition": "Coastal Warm & Humid",
+    "temperature": 29.0,
+    "temperature_range": "25°C - 33°C",
+    "humidity": "75%",
+    "precipitation_chance": "20%",
+    "clothing_recommendation": "Cotton wear and stay well hydrated."
+  },
+  "gurgaon": {
+    "city": "Delhi",
+    "condition": "Clear Sky / Warm",
+    "temperature": 28.0,
+    "temperature_range": "22°C - 34°C",
+    "humidity": "45%",
+    "precipitation_chance": "5%",
+    "clothing_recommendation": "Breathable cotton clothes and sunglasses."
+  },
+  "hampi": {
+    "city": "Hampi",
+    "condition": "Warm & Partially Cloudy",
+    "temperature": 27.5,
+    "temperature_range": "22°C - 33°C",
+    "humidity": "50%",
+    "precipitation_chance": "10%",
+    "clothing_recommendation": "Comfortable summer attire."
+  },
+  "hyderabad": {
+    "city": "Hyderabad",
+    "condition": "Warm & Partially Cloudy",
+    "temperature": 27.5,
+    "temperature_range": "22°C - 33°C",
+    "humidity": "50%",
+    "precipitation_chance": "10%",
+    "clothing_recommendation": "Comfortable summer attire."
+  },
+  "jaipur": {
+    "city": "Jaipur",
+    "condition": "Sunny & Dry",
+    "temperature": 29.5,
+    "temperature_range": "23°C - 36°C",
+    "humidity": "35%",
+    "precipitation_chance": "0%",
+    "clothing_recommendation": "Light cotton clothing, hat, and sunscreen."
+  },
+  "kashi": {
+    "city": "Varanasi",
+    "condition": "Clear Sky / Warm",
+    "temperature": 28.0,
+    "temperature_range": "22°C - 34°C",
+    "humidity": "45%",
+    "precipitation_chance": "5%",
+    "clothing_recommendation": "Breathable cotton clothes and sunglasses."
+  },
+  "kochi": {
+    "city": "Kochi",
+    "condition": "Humid & Partly Cloudy Coastal",
+    "temperature": 28.0,
+    "temperature_range": "24°C - 32°C",
+    "humidity": "78%",
+    "precipitation_chance": "25%",
+    "clothing_recommendation": "Light breathable fabrics and an umbrella."
+  },
+  "kolkata": {
+    "city": "Kolkata",
+    "condition": "Clear Sky / Warm",
+    "temperature": 28.0,
+    "temperature_range": "22°C - 34°C",
+    "humidity": "45%",
+    "precipitation_chance": "5%",
+    "clothing_recommendation": "Breathable cotton clothes and sunglasses."
+  },
+  "madras": {
+    "city": "Chennai",
+    "condition": "Humid & Partly Cloudy Coastal",
+    "temperature": 28.0,
+    "temperature_range": "24°C - 32°C",
+    "humidity": "78%",
+    "precipitation_chance": "25%",
+    "clothing_recommendation": "Light breathable fabrics and an umbrella."
+  },
+  "madurai": {
+    "city": "Madurai",
+    "condition": "Warm & Partially Cloudy",
+    "temperature": 27.5,
+    "temperature_range": "22°C - 33°C",
+    "humidity": "50%",
+    "precipitation_chance": "10%",
+    "clothing_recommendation": "Comfortable summer attire."
+  },
+  "manali": {
+    "city": "Manali",
+    "condition": "Cool & Crisp Mountain Air",
+    "temperature": 12.0,
+    "temperature_range": "6°C - 18°C",
+    "humidity": "60%",
+    "precipitation_chance": "25%",
+    "clothing_recommendation": "Warm layers, a windproof jacket, and sturdy walking shoes."
+  },
+  "mangalore": {
+    "city": "Mangalore",
+    "condition": "Coastal Warm & Humid",
+    "temperature": 29.0,
+    "temperature_range": "25°C - 33°C",
+    "humidity": "75%",
+    "precipitation_chance": "20%",
+    "clothing_recommendation": "Cotton wear and stay well hydrated."
+  },
+  "mumbai": {
+    "city": "Mumbai",
+    "condition": "Coastal Warm & Humid",
+    "temperature": 29.0,
+    "temperature_range": "25°C - 33°C",
+    "humidity": "75%",
+    "precipitation_chance": "20%",
+    "clothing_recommendation": "Cotton wear and stay well hydrated."
+  },
+  "mysore": {
+    "city": "Mysore",
+    "condition": "Mild & Pleasant",
+    "temperature": 24.0,
+    "temperature_range": "19°C - 29°C",
+    "humidity": "55%",
+    "precipitation_chance": "15%",
+    "clothing_recommendation": "Comfortable light jacket for early morning or late evening."
+  },
+  "mysuru": {
+    "city": "Mysore",
+    "condition": "Mild & Pleasant",
+    "temperature": 24.0,
+    "temperature_range": "19°C - 29°C",
+    "humidity": "55%",
+    "precipitation_chance": "15%",
+    "clothing_recommendation": "Comfortable light jacket for early morning or late evening."
+  },
+  "new delhi": {
+    "city": "Delhi",
+    "condition": "Clear Sky / Warm",
+    "temperature": 28.0,
+    "temperature_range": "22°C - 34°C",
+    "humidity": "45%",
+    "precipitation_chance": "5%",
+    "clothing_recommendation": "Breathable cotton clothes and sunglasses."
+  },
+  "noida": {
+    "city": "Delhi",
+    "condition": "Clear Sky / Warm",
+    "temperature": 28.0,
+    "temperature_range": "22°C - 34°C",
+    "humidity": "45%",
+    "precipitation_chance": "5%",
+    "clothing_recommendation": "Breathable cotton clothes and sunglasses."
+  },
+  "ooty": {
+    "city": "Ooty",
+    "condition": "Pleasant & Clear Hill Climate",
+    "temperature": 19.0,
+    "temperature_range": "14°C - 24°C",
+    "humidity": "70%",
+    "precipitation_chance": "30%",
+    "clothing_recommendation": "Light woollens for the evening and comfortable walking shoes."
+  },
+  "pondicherry": {
+    "city": "Pondicherry",
+    "condition": "Humid & Partly Cloudy Coastal",
+    "temperature": 28.0,
+    "temperature_range": "24°C - 32°C",
+    "humidity": "78%",
+    "precipitation_chance": "25%",
+    "clothing_recommendation": "Light breathable fabrics and an umbrella."
+  },
+  "pondy": {
+    "city": "Pondicherry",
+    "condition": "Humid & Partly Cloudy Coastal",
+    "temperature": 28.0,
+    "temperature_range": "24°C - 32°C",
+    "humidity": "78%",
+    "precipitation_chance": "25%",
+    "clothing_recommendation": "Light breathable fabrics and an umbrella."
+  },
+  "pune": {
+    "city": "Pune",
+    "condition": "Warm & Partially Cloudy",
+    "temperature": 27.5,
+    "temperature_range": "22°C - 33°C",
+    "humidity": "50%",
+    "precipitation_chance": "10%",
+    "clothing_recommendation": "Comfortable summer attire."
+  },
+  "rishikesh": {
+    "city": "Rishikesh",
+    "condition": "Cool & Crisp Mountain Air",
+    "temperature": 12.0,
+    "temperature_range": "6°C - 18°C",
+    "humidity": "60%",
+    "precipitation_chance": "25%",
+    "clothing_recommendation": "Warm layers, a windproof jacket, and sturdy walking shoes."
+  },
+  "shimla": {
+    "city": "Shimla",
+    "condition": "Cool & Crisp Mountain Air",
+    "temperature": 12.0,
+    "temperature_range": "6°C - 18°C",
+    "humidity": "60%",
+    "precipitation_chance": "25%",
+    "clothing_recommendation": "Warm layers, a windproof jacket, and sturdy walking shoes."
+  },
+  "tirupati": {
+    "city": "Tirupati",
+    "condition": "Warm & Partially Cloudy",
+    "temperature": 27.5,
+    "temperature_range": "22°C - 33°C",
+    "humidity": "50%",
+    "precipitation_chance": "10%",
+    "clothing_recommendation": "Comfortable summer attire."
+  },
+  "trivandrum": {
+    "city": "Trivandrum",
+    "condition": "Humid & Partly Cloudy Coastal",
+    "temperature": 28.0,
+    "temperature_range": "24°C - 32°C",
+    "humidity": "78%",
+    "precipitation_chance": "25%",
+    "clothing_recommendation": "Light breathable fabrics and an umbrella."
+  },
+  "udaipur": {
+    "city": "Udaipur",
+    "condition": "Sunny & Dry",
+    "temperature": 29.5,
+    "temperature_range": "23°C - 36°C",
+    "humidity": "35%",
+    "precipitation_chance": "0%",
+    "clothing_recommendation": "Light cotton clothing, hat, and sunscreen."
+  },
+  "varanasi": {
+    "city": "Varanasi",
+    "condition": "Clear Sky / Warm",
+    "temperature": 28.0,
+    "temperature_range": "22°C - 34°C",
+    "humidity": "45%",
+    "precipitation_chance": "5%",
+    "clothing_recommendation": "Breathable cotton clothes and sunglasses."
+  },
+  "wayanad": {
+    "city": "Wayanad",
+    "condition": "Pleasant & Clear Hill Climate",
+    "temperature": 19.0,
+    "temperature_range": "14°C - 24°C",
+    "humidity": "70%",
+    "precipitation_chance": "30%",
+    "clothing_recommendation": "Light woollens for the evening and comfortable walking shoes."
+  }
+}
